@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Portfolio_unity_2020",
+"productName": "Portfolio",
 "productVersion": "0.1",
 "dataUrl": "Portfolio.data.unityweb",
 "wasmCodeUrl": "Portfolio.wasm.code.unityweb",
