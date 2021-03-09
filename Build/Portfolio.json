@@ -3,7 +3,7 @@
 "productName": "Portfolio",
 "productVersion": "0.1",
 "dataUrl": "Portfolio.data.unityweb",
-"wasmCodeUrl": "Portfolio.wasm",
+"wasmCodeUrl": "Portfolio.wasm.code.unityweb",
 "wasmFrameworkUrl": "Portfolio.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
