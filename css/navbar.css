@@ -1,0 +1,19 @@
+﻿.navbar {
+  display: flex; }
+  .navbar .my-details {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 47em;
+    margin-bottom: 100px;
+    padding-right: 0em; }
+  .navbar .name {
+    flex-wrap: wrap; }
+
+a {
+  text-decoration: none;
+  color: white; }
+
+ul li {
+  display: flex;
+  list-style: none;
+  width: 10em; }

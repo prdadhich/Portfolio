@@ -1,0 +1,33 @@
+﻿.top {
+  padding: 2.5em; }
+
+.photogrammetry-heading {
+  font-size: 2em;
+  padding-bottom: 1em;
+  font-weight: normal; }
+
+.photogrammetry-heading-1 {
+  font-size: 2em;
+  padding-bottom: 0em;
+  font-weight: normal; }
+
+img {
+  position: relative;
+  height: auto;
+  width: 100%;
+  padding: 0em 0em 2em 2.5em; }
+
+.hero-image {
+  width: 90%;
+  padding: 0em;
+  margin: 0em;
+  margin-bottom: 2em;
+  margin-top: 2em; }
+
+.final {
+  width: 85%;
+  padding: 0em;
+  margin: 0em;
+  margin-bottom: 2em;
+  margin-top: 0em;
+  margin-left: 2.5em; }
