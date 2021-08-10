@@ -38,5 +38,9 @@
   {
     "outputFile": "css/photogrammetry.css",
     "inputFile": "css/photogrammetry.scss"
+  },
+  {
+    "outputFile": "css/AR.css",
+    "inputFile": "css/AR.scss"
   }
 ]
