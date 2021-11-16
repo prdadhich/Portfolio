@@ -19,7 +19,7 @@
     justify-content:flex-start;
 }
 img {
-   
+   padding :5px;
     
    
    
@@ -30,5 +30,5 @@ img {
 }
 .container > div {
 
-flex:1 1  400px;
+flex:1 1  500px;
 }

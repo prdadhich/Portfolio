@@ -1,32 +1,48 @@
 ﻿.detail {
-  padding-top: 1em; }
+  padding-top: 1em;
+  margin-right: 20%;
+}
 
 .what {
+  margin-top: 5em;
+  margin-right: 20%;
+  margin-left: 5%;
   font-size: 1.2em;
   margin-bottom: 2em;
-  padding-left: 2em; }
-  .what .diaflame-big {
-    font-size: 2em; }
+}
+.what .diaflame-big {
+  font-size: 2em;
+}
 
 .constraint {
-  padding-left: 2em; }
+  margin-top: 5em;
+  margin-right: 20%;
+  margin-left: 5%;
+}
 
 img {
-  width: 87%;
-  padding-top: 2em; }
-
-.cleaning {
-  width: 85%;
-  padding-left: 2em; }
+  width: 100%;
+  padding-top: 2em;
+}
 
 li {
-  margin-left: 0px; }
+  margin-left: 0px;
+}
 
 .Why {
-  padding-top: 2em;
-  padding-left: 2em;
-  font-size: 1.2em; }
+  margin-top: 5em;
+  margin-right: 20%;
+  margin-left: 5%;
+  font-size: 1.2em;
+}
 
 .cooktop {
   width: 83%;
-  padding-left: 2em; }
+  padding-left: 2em;
+}
+
+.diaflame_image {
+  display: flex;
+  margin-right: 20%;
+  margin-left: 5%;
+}

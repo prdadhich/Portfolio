@@ -1,14 +1,18 @@
-﻿body {
-}
+﻿
 
 
-.top {
-    padding: 2.5em
-}
+
 .photogrammetry-heading {
+    margin-right: 20%;
+    margin-left: 5%;
     font-size: 2em;
     padding-bottom: 1em;
     font-weight: normal;
+    margin-top: 1em;
+}
+.heading_detail {
+    margin-right: 20%;
+    margin-left: 5%;
 }
 .photogrammetry-heading-1 {
     font-size: 2em;
@@ -18,23 +22,16 @@
 
 
 img {
-    position: relative;
-    height: auto;
+    height: 50%;
     width: 100%;
-    padding: 0em 0em 2em 2.5em;
-}
-.hero-image {
-    width: 90%;
-    padding: 0em;
-    margin: 0em;
-    margin-bottom: 2em;
-    margin-top:2em;
-}
-.final {
-    width: 85%;
-    padding: 0em;
-    margin: 0em;
-    margin-bottom: 2em;
-    margin-top: 0em;
-    margin-left: 2.5em;
+    margin:1em 0 1em 0;
+
+    }
+
+.container {
+    display: flex;
+    margin-right: 20%;
+    margin-left: 5%;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 }
