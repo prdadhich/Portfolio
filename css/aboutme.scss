@@ -8,11 +8,13 @@ body {
 }
 
 .about {
+    display: flex;
     margin-right: 20%;
     margin-left: 5%;
-    margin-top:20%;
+    margin-top: 20%;
     letter-spacing: 1px;
     line-height: 1.5;
+    flex-wrap:wrap;
 }
 .mail{
 
