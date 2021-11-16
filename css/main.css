@@ -1,11 +1,34 @@
 ﻿.my-info {
-  margin-bottom: 1em;
-  padding: 6em 1em 13em 1em;
-  font-size: 2em;
-  letter-spacing: .1em; }
-
+    display: flex;
+    margin-right: 20%;
+    margin-left:5%;
+    
+    margin-top:10em;
+    margin-bottom: 10em;
+    
+    font-size: 2em;
+    letter-spacing: .1em;
+    align-content: center;
+    justify-content: flex-start;
+}
+.container {
+    display: flex;
+    margin-right: 20%;
+    margin-left: 5%;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+}
 img {
-  position: relative;
-  height: auto;
-  border-radius: 10px;
-  width: 600px; }
+   
+    
+   
+   
+    
+    
+    border-radius: 10px;
+    
+}
+.container > div {
+
+flex:1 1  400px;
+}

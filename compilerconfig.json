@@ -42,5 +42,9 @@
   {
     "outputFile": "css/AR.css",
     "inputFile": "css/AR.scss"
+  },
+  {
+    "outputFile": "css/HMI.css",
+    "inputFile": "css/HMI.scss"
   }
 ]
