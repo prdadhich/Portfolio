@@ -1,11 +1,14 @@
 ﻿
 
+div{
 
+    padding: 0;
+}
 
 
 .my-info{
-    margin-bottom:1em;
-    padding: 6em 1em 13em 1em;
+    margin-bottom:0em;
+    padding: 6em 10% 1em 10%;
     font-size : 2em ;
     letter-spacing: .1em;
 
@@ -13,13 +16,65 @@
 }
 
 
+.imgsource{
 
-
-img {
-    position: relative;
-    height: auto;
-    border-radius: 10px;
-    width: 600px;
+    font-size: .4em;
 }
 
+section {
+    margin-top: 10%;
+    display:grid;
+    grid-template-columns: 1fr;
+    column-gap: 0.5em;
+    row-gap: 0.5em;
+    border-radius: 10px;
+    padding: 0% 10%;
+}
+
+
+
+img{
+    border-radius: 10px;
+
+   
+}
+
+.paddingtop{
+
+   padding-top: 20px;
+}
+
+.heading{
+
+    font-size: 2em;
+    padding-bottom: 2%;
+}
+
+.italic{
+
+    font-style: italic;
+  
+
+    
+    }
+
+
+
+
+
+    @media only screen and (min-width: 768px)
+{
+    section {
+        margin-top: 10%;
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 0.5em;
+        row-gap: 0.5em;
+        border-radius: 10px;
+        padding: 0% 10%;
+       
+     
+    }
+
+}
 

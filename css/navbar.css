@@ -1,23 +1,28 @@
-﻿.navbar {
-    display: flex;
-    margin-right: 20%;
-    margin-left: 5%;
-    
+.navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 1em 10%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
-  .name {
-    justify-content:flex-end;
-
-  }
-
-  .Work{
-
-      margin-left:auto;
-      padding-right:30px;
-  }
+.navbar .work {
+  padding-left: 60%;
+  padding-right: 10%;
+}
 
 a {
   text-decoration: none;
-  color: white; }
+  color: white;
+}
 
-
+ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+  width: 10em;
+}
+/*# sourceMappingURL=navbar.css.map */

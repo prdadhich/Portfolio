@@ -1,0 +1,20 @@
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-color: white;
+  padding: 2em 10%;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+img {
+  height: auto;
+  border-radius: 10px;
+  width: 590px;
+  margin: .1em;
+}
+/*# sourceMappingURL=image.css.map */
