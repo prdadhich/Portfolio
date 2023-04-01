@@ -6,6 +6,21 @@ body {
   color: white;
   font-weight: lighter;
   line-height: 1.5em;
-  font-size: 1.2em;
+  font-size: 1.2rem   ;
 }
 /*# sourceMappingURL=body.css.map */
+
+
+.container1{
+
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-color: white;
+  padding: 2em 10%;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
